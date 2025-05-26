@@ -1,0 +1,232 @@
+{
+  "characters": [
+    {
+      "id": "hanlixiu",
+      "name": "韩立",
+      "title": "青元剑主",
+      "description": "小说主角，出身普通，凭借坚韧不拔的意志和过人的智慧，一步步走上修仙之路。",
+      "cultivation": "大乘期",
+      "relationships": [
+        {
+          "target": "nangongwan",
+          "type": "道侣",
+          "description": "韩立的道侣，两人历经生死患难，感情深厚。"
+        },
+        {
+          "target": "yinyue",
+          "type": "师徒",
+          "description": "韩立的灵兽，后成为其弟子，忠心耿耿。"
+        },
+        {
+          "target": "dongxuaner",
+          "type": "朋友",
+          "description": "七玄门时期的好友，后来各自踏上不同的修仙之路。"
+        },
+        {
+          "target": "yuanyao",
+          "type": "朋友",
+          "description": "元瑶仙子，与韩立有过一段特殊情谊。"
+        },
+        {
+          "target": "jintong",
+          "type": "师徒",
+          "description": "韩立的弟子，天赋异禀，后成为强大修士。"
+        },
+        {
+          "target": "yinwujianwang",
+          "type": "敌对",
+          "description": "曾与韩立多次交手的强大敌人。"
+        }
+      ]
+    },
+    {
+      "id": "nangongwan",
+      "name": "南宫婉",
+      "title": "天南双仙子之一",
+      "description": "韩立的道侣，性格温婉，修为高深，对韩立一往情深。",
+      "cultivation": "合体期",
+      "relationships": [
+        {
+          "target": "hanlixiu",
+          "type": "道侣",
+          "description": "与韩立相知相守，共同经历无数磨难。"
+        },
+        {
+          "target": "yuanyao",
+          "type": "竞争",
+          "description": "两人都对韩立有情，存在一定的竞争关系。"
+        }
+      ]
+    },
+    {
+      "id": "yinyue",
+      "name": "银月",
+      "title": "啼魂",
+      "description": "原为韩立的灵兽，后来修炼成精，成为强大的妖修。",
+      "cultivation": "炼虚期",
+      "relationships": [
+        {
+          "target": "hanlixiu",
+          "type": "师徒",
+          "description": "对韩立忠心耿耿，视其为主人和师父。"
+        },
+        {
+          "target": "jintong",
+          "type": "朋友",
+          "description": "同为韩立的追随者，关系友好。"
+        }
+      ]
+    },
+    {
+      "id": "dongxuaner",
+      "name": "董萱儿",
+      "title": "七玄门弟子",
+      "description": "韩立在七玄门时期的好友，性格活泼开朗。",
+      "cultivation": "筑基期",
+      "relationships": [
+        {
+          "target": "hanlixiu",
+          "type": "朋友",
+          "description": "与韩立情同手足，互相扶持。"
+        }
+      ]
+    },
+    {
+      "id": "yuanyao",
+      "name": "元瑶",
+      "title": "元瑶仙子",
+      "description": "与韩立有过一段特殊情谊的女修，容貌绝美，性格坚强。",
+      "cultivation": "元婴期",
+      "relationships": [
+        {
+          "target": "hanlixiu",
+          "type": "朋友",
+          "description": "与韩立曾有过一段特殊经历，关系微妙。"
+        },
+        {
+          "target": "nangongwan",
+          "type": "竞争",
+          "description": "与南宫婉在韩立的感情上存在竞争。"
+        }
+      ]
+    },
+    {
+      "id": "jintong",
+      "name": "金童",
+      "title": "通天灵宝",
+      "description": "原为一件灵宝，后化形成人，成为韩立的弟子。",
+      "cultivation": "炼虚期",
+      "relationships": [
+        {
+          "target": "hanlixiu",
+          "type": "师徒",
+          "description": "视韩立为师父，忠心耿耿。"
+        },
+        {
+          "target": "yinyue",
+          "type": "朋友",
+          "description": "同为韩立的追随者，关系友好。"
+        }
+      ]
+    },
+    {
+      "id": "yinwujianwang",
+      "name": "银翅夜叉王",
+      "title": "魔界强者",
+      "description": "魔界的强大存在，与韩立多次交手。",
+      "cultivation": "合体期",
+      "relationships": [
+        {
+          "target": "hanlixiu",
+          "type": "敌对",
+          "description": "与韩立有深仇大恨，多次交手。"
+        }
+      ]
+    },
+    {
+      "id": "mohaidaozhu",
+      "name": "墨海道主",
+      "title": "天南第一修士",
+      "description": "天南地区最强大的修士之一，实力深不可测。",
+      "cultivation": "化神期",
+      "relationships": [
+        {
+          "target": "hanlixiu",
+          "type": "指导",
+          "description": "曾对韩立有所指点，关系复杂。"
+        }
+      ]
+    },
+    {
+      "id": "guanghanxianzi",
+      "name": "广寒仙子",
+      "title": "仙界强者",
+      "description": "仙界的强大存在，容貌绝美，实力惊人。",
+      "cultivation": "大乘期",
+      "relationships": [
+        {
+          "target": "hanlixiu",
+          "type": "指导",
+          "description": "对韩立有所指点，给予过帮助。"
+        }
+      ]
+    },
+    {
+      "id": "guiling",
+      "name": "鬼灵子",
+      "title": "鬼道大能",
+      "description": "鬼道修士，实力强大，性格阴险。",
+      "cultivation": "大乘期",
+      "relationships": [
+        {
+          "target": "hanlixiu",
+          "type": "敌对",
+          "description": "与韩立为敌，多次设计陷害。"
+        }
+      ]
+    }
+  ],
+  "relationshipTypes": [
+    {
+      "type": "道侣",
+      "description": "修仙伴侣关系",
+      "color": "#e6194b"
+    },
+    {
+      "type": "师徒",
+      "description": "师父与弟子关系",
+      "color": "#3cb44b"
+    },
+    {
+      "type": "朋友",
+      "description": "友好关系",
+      "color": "#4363d8"
+    },
+    {
+      "type": "敌对",
+      "description": "敌人或对手关系",
+      "color": "#f58231"
+    },
+    {
+      "type": "竞争",
+      "description": "竞争关系",
+      "color": "#911eb4"
+    },
+    {
+      "type": "指导",
+      "description": "指导或引路关系",
+      "color": "#42d4f4"
+    }
+  ],
+  "cultivationRanks": [
+    "练气期",
+    "筑基期",
+    "结丹期",
+    "元婴期",
+    "化神期",
+    "炼虚期",
+    "合体期",
+    "大乘期",
+    "渡劫期"
+  ]
+}

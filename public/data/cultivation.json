@@ -1,0 +1,204 @@
+{
+  "cultivationSystem": {
+    "ranks": [
+      {
+        "name": "练气期",
+        "description": "修仙的入门境界，开始吸纳灵气入体，分为1-12层",
+        "lifespan": "150-200年",
+        "examples": ["韩立（初期）", "张铁", "墨大夫"],
+        "lifeExtension": "服用辟谷丹可延寿"
+      },
+      {
+        "name": "筑基期",
+        "description": "灵气在体内形成基础循环，为结丹打下基础",
+        "lifespan": "300-500年",
+        "examples": ["韩立（中期）", "南宫婉（初期）", "董萱儿"],
+        "lifeExtension": "服用筑基丹可提高筑基成功率"
+      },
+      {
+        "name": "结丹期",
+        "description": "体内凝结金丹，实力大增，分为初中后三期",
+        "lifespan": "800-1000年",
+        "examples": ["韩立（后期）", "南宫婉", "银月"],
+        "lifeExtension": "服用结丹灵药可提高结丹成功率"
+      },
+      {
+        "name": "元婴期",
+        "description": "金丹化婴，元婴可独立存在，分为初中后三期",
+        "lifespan": "1500-2000年",
+        "examples": ["韩立（灵界）", "南陇侯", "元瑶"],
+        "lifeExtension": "可通过闭关减缓衰老"
+      },
+      {
+        "name": "化神期",
+        "description": "元婴与肉身合一，化为神体，寿元大增",
+        "lifespan": "3000-5000年",
+        "examples": ["韩立（魔界初）", "银翅夜叉王", "啼魂"],
+        "lifeExtension": "可通过闭关和灵药延寿"
+      },
+      {
+        "name": "炼虚期",
+        "description": "神体虚化，可短暂脱离肉身存在",
+        "lifespan": "8000-10000年",
+        "examples": ["韩立（魔界后）", "天澜圣女", "金童"],
+        "lifeExtension": "可通过特殊秘术延寿"
+      },
+      {
+        "name": "合体期",
+        "description": "神体与天地元气合一，威能惊人",
+        "lifespan": "15000-20000年",
+        "examples": ["韩立（仙界初）", "紫灵", "啼魂（后期）"],
+        "lifeExtension": "可通过天材地宝延寿"
+      },
+      {
+        "name": "大乘期",
+        "description": "修为臻至化境，几近长生",
+        "lifespan": "30000-50000年",
+        "examples": ["韩立（仙界后）", "广寒仙子", "鬼灵子"],
+        "lifeExtension": "可通过特殊秘法大幅延寿"
+      },
+      {
+        "name": "渡劫期",
+        "description": "面临天劫考验，渡过后可飞升仙界",
+        "lifespan": "接近10万年",
+        "examples": ["韩立（飞升前）", "元始天尊", "通天教主"],
+        "lifeExtension": "可通过特殊手段规避部分天劫"
+      }
+    ]
+  },
+  
+  "populationDistribution": {
+    "realms": [
+      {
+        "name": "人界",
+        "population": 100000,
+        "description": "修仙者数量最少，资源最匮乏的世界"
+      },
+      {
+        "name": "灵界",
+        "population": 1000000,
+        "description": "中等世界，修仙资源丰富，修士数量众多"
+      },
+      {
+        "name": "仙界",
+        "population": 10000000,
+        "description": "最高等世界，仙灵气浓郁，高阶修士众多"
+      }
+    ],
+    "humanRealm": [
+      {
+        "rank": "练气期",
+        "count": 70000,
+        "percentage": 70
+      },
+      {
+        "rank": "筑基期",
+        "count": 20000,
+        "percentage": 20
+      },
+      {
+        "rank": "结丹期",
+        "count": 8000,
+        "percentage": 8
+      },
+      {
+        "rank": "元婴期",
+        "count": 1500,
+        "percentage": 1.5
+      },
+      {
+        "rank": "化神期",
+        "count": 500,
+        "percentage": 0.5
+      }
+    ]
+  },
+  
+  "spiritRoots": {
+    "types": [
+      {
+        "name": "五行灵根",
+        "percentage": 60,
+        "description": "包含金木水火土五种属性，最常见但资质最差"
+      },
+      {
+        "name": "四行灵根",
+        "percentage": 25,
+        "description": "包含四种属性，资质较差"
+      },
+      {
+        "name": "三行灵根",
+        "percentage": 10,
+        "description": "包含三种属性，资质中等"
+      },
+      {
+        "name": "双灵根",
+        "percentage": 4,
+        "description": "包含两种属性，资质优秀"
+      },
+      {
+        "name": "单灵根",
+        "percentage": 1,
+        "description": "只有单一属性，资质极佳，修炼速度快"
+      },
+      {
+        "name": "变异灵根",
+        "percentage": 0.1,
+        "description": "特殊灵根，如寒冰、雷电等，极为罕见"
+      }
+    ]
+  },
+  
+  "tribulation": {
+    "levels": [
+      {
+        "rank": "筑基期",
+        "power": 10,
+        "survivalRate": 95,
+        "description": "最基础的天劫，威力较小"
+      },
+      {
+        "rank": "结丹期",
+        "power": 30,
+        "survivalRate": 85,
+        "description": "威力增强，但大多数修士能够应对"
+      },
+      {
+        "rank": "元婴期",
+        "power": 60,
+        "survivalRate": 70,
+        "description": "威力显著增强，需要充分准备"
+      },
+      {
+        "rank": "化神期",
+        "power": 100,
+        "survivalRate": 50,
+        "description": "威力巨大，半数修士无法渡过"
+      },
+      {
+        "rank": "炼虚期",
+        "power": 150,
+        "survivalRate": 40,
+        "description": "高等天劫，威力惊人"
+      },
+      {
+        "rank": "合体期",
+        "power": 250,
+        "survivalRate": 30,
+        "description": "极为恐怖的天劫，生存率低"
+      },
+      {
+        "rank": "大乘期",
+        "power": 400,
+        "survivalRate": 20,
+        "description": "几乎毁灭性的天劫，极少修士能渡过"
+      },
+      {
+        "rank": "渡劫期",
+        "power": 800,
+        "survivalRate": 10,
+        "description": "最终天劫，威力无法想象，成功者寥寥"
+      }
+    ]
+  }
+}
