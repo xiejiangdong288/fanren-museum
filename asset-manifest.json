@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://xiejiangdong288.github.io/fanren-museum/static/css/main.e6c13ad2.css",
+    "main.js": "https://xiejiangdong288.github.io/fanren-museum/static/js/main.97801014.js",
+    "index.html": "https://xiejiangdong288.github.io/fanren-museum/index.html",
+    "main.e6c13ad2.css.map": "https://xiejiangdong288.github.io/fanren-museum/static/css/main.e6c13ad2.css.map",
+    "main.97801014.js.map": "https://xiejiangdong288.github.io/fanren-museum/static/js/main.97801014.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.97801014.js"
+  ]
+}

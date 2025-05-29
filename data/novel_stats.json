@@ -1,0 +1,124 @@
+{
+  "title": "凡人修仙传",
+  "author": "忘语",
+  "publishYear": 2008,
+  "totalWordCount": 22000000,
+  "totalChapters": 2400,
+  "writingYears": 8,
+  "averageDailyUpdate": 7500,
+  
+  "volumeStats": [
+    {
+      "name": "第一卷：七玄门",
+      "wordCount": 1200000,
+      "chapters": 120
+    },
+    {
+      "name": "第二卷：大周王朝",
+      "wordCount": 1500000,
+      "chapters": 150
+    },
+    {
+      "name": "第三卷：灵界",
+      "wordCount": 3500000,
+      "chapters": 350
+    },
+    {
+      "name": "第四卷：魔界",
+      "wordCount": 4000000,
+      "chapters": 400
+    },
+    {
+      "name": "第五卷：仙界",
+      "wordCount": 5800000,
+      "chapters": 580
+    },
+    {
+      "name": "第六卷：大千世界",
+      "wordCount": 6000000,
+      "chapters": 600
+    }
+  ],
+  
+  "updateFrequency": {
+    "months": ["1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月", "9月", "10月", "11月", "12月"],
+    "wordCounts": [220000, 210000, 230000, 225000, 235000, 240000, 245000, 230000, 220000, 225000, 215000, 205000]
+  },
+  
+  "updateTimeDistribution": [
+    {
+      "timeSlot": "早上 (6-12点)",
+      "percentage": 15
+    },
+    {
+      "timeSlot": "下午 (12-18点)",
+      "percentage": 25
+    },
+    {
+      "timeSlot": "晚上 (18-24点)",
+      "percentage": 55
+    },
+    {
+      "timeSlot": "凌晨 (0-6点)",
+      "percentage": 5
+    }
+  ],
+  
+  "readerInteraction": {
+    "volumes": ["第一卷", "第二卷", "第三卷", "第四卷", "第五卷", "第六卷"],
+    "comments": [150000, 180000, 320000, 350000, 420000, 480000],
+    "popularChapters": [
+      {
+        "title": "韩立得到青元剑诀",
+        "views": 1200000
+      },
+      {
+        "title": "七玄门外门弟子考核",
+        "views": 980000
+      },
+      {
+        "title": "韩立突破结丹期",
+        "views": 1500000
+      },
+      {
+        "title": "韩立大战南宫婉",
+        "views": 1350000
+      },
+      {
+        "title": "韩立突破化神期",
+        "views": 1800000
+      }
+    ]
+  },
+  
+  "influence": {
+    "totalReads": 50000000,
+    "derivativeWorks": 15,
+    "discussionThreads": 120000
+  },
+  
+  "readerDemographics": {
+    "ageGroups": [
+      {
+        "group": "18岁以下",
+        "percentage": 15
+      },
+      {
+        "group": "18-25岁",
+        "percentage": 40
+      },
+      {
+        "group": "26-35岁",
+        "percentage": 30
+      },
+      {
+        "group": "36-45岁",
+        "percentage": 10
+      },
+      {
+        "group": "45岁以上",
+        "percentage": 5
+      }
+    ]
+  }
+}
